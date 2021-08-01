@@ -1,6 +1,6 @@
 ---
 url_path: '/login'
-title: 'Authenticate'
+title: '世界观'
 
 layout: null
 ---
